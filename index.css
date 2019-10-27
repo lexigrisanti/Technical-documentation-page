@@ -1,0 +1,23 @@
+
+
+#navbar {
+
+  border-right: solid;
+  border-color: rgba(0, 22, 22, 0.4);
+  position: fixed;
+  left: 0px;
+  top: 0px;
+}
+
+
+
+
+
+
+header {
+  font-size: 20px;
+  text-align:center;
+  background-color: rgba(117, 190, 218, 0.25);
+  width: 50%;
+  color: white;
+  margin: 100px;
